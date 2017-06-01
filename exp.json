@@ -1,0 +1,21 @@
+{
+  "name": "KidMath",
+  "description": "小学三年级脱式计算",
+  "slug": "KidMath",
+  "privacy": "public",
+  "sdkVersion": "16.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/icons/kidMath3.png",
+  "loading": {
+    "icon": "./assets/icons/kidMath3.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
